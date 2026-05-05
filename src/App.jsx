@@ -20,6 +20,15 @@ const SKILLS = [
 
 const PROJECTS = [
   {
+    title: "CareerLens",
+    desc: "Job application tracker with JWT auth, CRUD job management, AI-powered resume scoring, and streaming cover letter generation using React, Node.js, and OpenAI.",
+    tech: ["React", "Node.js", "MongoDB", "OpenAI", "Tailwind"],
+    color: "#14b8a6",
+    // icon: "🛒",
+    github: "https://github.com/Kalpitaa/Job-tracker",
+    live: "https://job-tracker-omega-jet.vercel.app",
+  },
+  {
     title: "Buddha Art Gallery",
     desc: "Developed an e-commerce platform for browsing and purchasing Buddha statues, using React for a responsive UI and Node.js/Express for RESTful APIs. Implemented authentication and managed products, users, and orders with MongoDB.",
     tech: ["React", "Node.js", "MongoDB", "Tailwind"],
