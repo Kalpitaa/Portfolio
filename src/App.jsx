@@ -42,7 +42,7 @@ const PROJECTS = [
     desc: "Developed a project tracking tool to streamline team collaboration and improve workflow visibility. Implemented role-based access, Kanban board functionality, and task status updates, along with RESTful APIs and secure authentication using MongoDB for efficient data management.",
     tech: ["React", "Express", "Node.js", "MongoDB"],
     color: "#f59e0b",
-    image: "/Workzen.png",
+    image: "/Wokzen.png",
     // github: "#",
     // live: "#",
   },
